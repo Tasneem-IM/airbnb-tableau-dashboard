@@ -40,8 +40,7 @@ Combined all visualizations into a single interactive dashboard and published it
 
 ##  Dashboard Preview
 
-*(Add a screenshot of your final dashboard here, e.g. `![Dashboard Preview](images/dashboard.png)`)*
-
+Dashboard Preview.png
 ## 📁 Repo Contents
 
 ```
