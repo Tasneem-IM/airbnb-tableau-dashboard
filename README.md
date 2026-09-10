@@ -40,7 +40,7 @@ Combined all visualizations into a single interactive dashboard and published it
 
 ##  Dashboard Preview
 
-![Dashboard Preview](images/Dashboard%20Preview.png)
+![Dashboard Preview](Dashboard%20Preview.png)
 ## 📁 Repo Contents
 
 ```
