@@ -45,6 +45,6 @@ Combined all visualizations into a single interactive dashboard and published it
 
 ```
 ├── README.md
-├── images/              # dashboard screenshots
-└── workbook/             # (optional) .twbx file if you choose to include it
+├── images/         
+└── workbook/          
 ```
